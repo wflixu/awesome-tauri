@@ -10,7 +10,7 @@ The offical awesome repo is so strictly to pull request，
 ## Education
 
 - [periotable](https://github.com/GervinFung/periotable/releases)  - The Modern Periodic Table
-
+- [typster](https://github.com/wflixu/typster/releases)  - The typst reader and editor.
 
 ## Video and Image
 
